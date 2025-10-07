@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Other
+*.vsidx
+*.dbmdl
+*.dbproj.schemaview
+*.dbmdl
+*.vscode/
+

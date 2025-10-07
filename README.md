@@ -179,6 +179,4 @@ Contributions are welcome!
 ---
 
 
----
 
-**Developed with ❤️ for better healthcare management.**

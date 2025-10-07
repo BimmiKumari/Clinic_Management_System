@@ -141,9 +141,7 @@ Key tables include:
 4. **Run the Application**
 
    ```bash
-   npm start
-   # or
-   python manage.py runserver
+  
    ```
 
 ---

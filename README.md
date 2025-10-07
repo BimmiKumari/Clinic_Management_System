@@ -26,7 +26,7 @@ It provides different access levels for administrators, doctors, staff, and pati
 
 ---
 
-## ⚙️ Features
+## Features
 
 * **Role-Based Authentication** (Admin, Doctor, Staff, Patient)
 * **OTP-Based Login Validation** for secure access
@@ -95,7 +95,7 @@ Key tables include:
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 | Layer               | Technology              |
 | ------------------- | ----------------------- |
